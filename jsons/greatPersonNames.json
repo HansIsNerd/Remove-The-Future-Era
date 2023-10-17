@@ -1,0 +1,31 @@
+{
+  "Great Programmers": {
+    "James Gosling",
+    "Bill Gates",
+    "Ada Lovelace",
+    "Tim Berners-Lee",
+    "Mark Zuckerberg",
+    "Denise Ritchie",
+    "Linus Torvalds",
+    "Steve Jobs"
+  }
+  "Great Indie Game Developers": {
+    "Livander Gamedev",
+    "Andy Lukito",
+    "Kajew Developer",
+    "ThatGameCompany",
+    "Yair Morgenstern"
+  },
+  "Great Fullstack Developers": {
+    "John Sohnmez",
+    "Wes Bos",
+    "Addy Osmani",
+    "Dan Abramov",
+    "Sophie Alpert",
+    "Brendan Eich",
+    "Ken C. Dodds",
+    "Sarah Drasner",
+    "Minko Gechev",
+    "Wassim Chegham"
+  }
+}

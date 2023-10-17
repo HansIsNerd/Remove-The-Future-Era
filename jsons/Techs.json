@@ -1,0 +1,21 @@
+[
+  {
+    "columnNumber": 17,
+		"era": "Information era",
+		"techCost": 9000,
+		"buildingCost": 780,
+		"wonderCost": 1250,
+		"techs": [
+		  {
+		  "name": "Programming Learning",
+		  "row": 3,
+		  "prerequisites": ["Globalization"]
+		  },
+		  {
+		    "name": "OS Developments",
+		    "row": 5,
+		    "prerequisites": ["Globalization"]
+		  }
+		  ]
+  }
+]

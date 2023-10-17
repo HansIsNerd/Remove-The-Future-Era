@@ -1,0 +1,9 @@
+[
+  {
+    "name": "University: Programming Major",
+    "cost": 30
+    "culture": 3,
+    "gold": 5,
+    "requiredTech": "Programming Learning"
+  }
+]
