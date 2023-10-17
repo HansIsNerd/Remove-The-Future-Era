@@ -2,5 +2,6 @@
     "author": "HansIsNobody",
     "modSize": 9,
     "topics":["unciv-mod", "unciv-mod-expansions", "unciv-mod-fun"],
-    "isBaseRuleset": "False"
+    "isBaseRuleset": "False",
+    "modUrl": ""
 }
