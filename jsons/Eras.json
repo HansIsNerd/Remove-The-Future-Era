@@ -177,7 +177,7 @@
     },
     // Modded Era is started from here
     {
-      "name": "Advanced Technology era",
+      "name": "Software Industries era",
       "researchAgreementCost": 450,
       "startingSettlerCount": 3,
       "startingWorkerCount": 5,
